@@ -1,0 +1,6 @@
+.download_button {
+    padding: 4px 8px;
+    background-color: var(--white);
+    font-size: 24px;
+    border-radius: 4px;
+}

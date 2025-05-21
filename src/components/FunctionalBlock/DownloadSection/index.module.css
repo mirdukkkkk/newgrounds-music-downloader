@@ -1,0 +1,11 @@
+.download_section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.download_section > div {
+    font-size: 18px;
+    text-align: center;
+}
