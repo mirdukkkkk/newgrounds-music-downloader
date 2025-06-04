@@ -23,5 +23,11 @@ export default defineConfig({
             ]
         }),
         preact()
-    ]
+    ],
+    /*build: {
+        cssMinify: "lightningcss"
+    },
+    css: {
+        transformer: "lightningcss"
+    }*/
 });

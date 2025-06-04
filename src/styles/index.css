@@ -7,7 +7,7 @@
     --background: #000000;
 }
 
-body {
+#app {
     color: var(--white);
     background-color: var(--background);
     font-family: GooseberryJuice, serif;
